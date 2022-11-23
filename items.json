@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "nombre": "galaxia",
+        "precio":200,
+        "img":"./img/anillos.jpg"
+    },
+    {
+        "id":1,
+        "nombre": "infinito",
+        "precio":200,
+        "img":"./img/cadenas.jpg"
+    },
+    {
+        "id":1,
+        "nombre": "deCartilago",
+        "precio":200,
+        "img":"./img/aretes.jpeg"
+    },
+    {
+        "id":1,
+        "nombre": "maxima",
+        "precio":200,
+        "img":"./img/pulseras.jpg"
+
+    }
+]

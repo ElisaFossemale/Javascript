@@ -1,0 +1,27 @@
+.imgProductos {
+    width: 150px;
+    height: 200px;
+    object-fit: contain;
+    margin-top: 1rem;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem;
+}
+
+.colorBoton {
+    color:black;
+    background-color:lightpink;
+}
+
+.colorBoton:hover {
+    background-color:lightgrey;
+    color: black;
+}
+ #finalizarCompra{
+    color:black;
+    background-color:lightpink;
+    margin-top: 10px;
+ }
